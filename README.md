@@ -1,4 +1,4 @@
-# Pandas Project Exercise - Solutions
+# Pandas Project
 
 # The Data
 
